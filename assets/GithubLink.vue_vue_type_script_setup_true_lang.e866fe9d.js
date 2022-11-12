@@ -1,1 +1,0 @@
-import{_ as o}from"./WebSiteLink.vue_vue_type_script_setup_true_lang.d58c4b04.js";import{d as n,o as t,b as l}from"./index.4c52ef28.js";const a=n({name:"GithubLink"}),u=n({...a,props:{link:null},setup(e){return(i,_)=>(t(),l(o,{label:"github\u5730\u5740\uFF1A",link:e.link},null,8,["link"]))}});export{u as _};

@@ -1,1 +1,0 @@
-var r=(u=>(u.super="\u8D85\u7EA7\u7BA1\u7406\u5458",u.admin="\u7BA1\u7406\u5458",u.user="\u666E\u901A\u7528\u6237",u))(r||{}),B=(u=>(u["pwd-login"]="\u8D26\u5BC6\u767B\u5F55",u["code-login"]="\u624B\u673A\u9A8C\u8BC1\u7801\u767B\u5F55",u.register="\u6CE8\u518C",u["reset-pwd"]="\u91CD\u7F6E\u5BC6\u7801",u["bind-wechat"]="\u5FAE\u4FE1\u7ED1\u5B9A",u))(B||{});export{B as E,r as a};
