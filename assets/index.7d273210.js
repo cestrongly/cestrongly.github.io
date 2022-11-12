@@ -1,0 +1,1 @@
+import{d as s,g as a,o,a as t,aZ as c}from"./index.4c52ef28.js";const n={class:"h-full"},r=["src"],f=s({__name:"index",setup(l){const e=a("https://docs.soybean.pro/");return(_,d)=>(o(),t("div",n,[c("iframe",{class:"wh-full",src:e.value},null,8,r)]))}});export{f as default};

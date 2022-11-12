@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as s,a as c,f as n,cL as t}from"./index.4c52ef28.js";const _={},r={class:"h-full"};function a(l,d){const e=t;return s(),c("div",r,[n(e,{title:"\u5F53\u524D\u9875\u9762\u53EA\u6709super\u624D\u80FD\u770B\u5230",class:"h-full shadow-sm rounded-16px"})])}const i=o(_,[["render",a]]);export{i as default};
